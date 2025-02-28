@@ -1,4 +1,4 @@
-# NewCoding
+# syntax-error
 new repo
-This is my git Repository .
+This is my first git Repository .
 Author-Saunika Upreti
